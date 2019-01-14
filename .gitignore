@@ -61,6 +61,7 @@ buildNumber.properties
 .idea/encodings.xml
 .idea/misc.xml
 .idea/modules.xml
+.idea/vcs.xml
 easy-cache.iml
 
 # Gradle
