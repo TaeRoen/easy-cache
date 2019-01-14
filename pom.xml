@@ -6,7 +6,7 @@
 
     <groupId>com.taeroen</groupId>
     <artifactId>easy-cache</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.1</version>
 
     <name>easy-cache</name>
     <description>A used easily cache library with no 3rd party's dependencies</description>
